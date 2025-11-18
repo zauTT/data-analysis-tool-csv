@@ -1,0 +1,26 @@
+order_id,customer_id,product,category,quantity,price,date,region,customer_name,status
+1001,C001,Laptop,Electronics,1,999.99,2024-01-15,North,John Smith,Completed
+1002,C002,Mouse,Electronics,2,25.50,2024-01-16,South,Sarah Johnson,Completed
+1003,C003,Desk Chair,Furniture,1,350.00,2024-01-16,East,Michael Brown,Pending
+1004,C001,Keyboard,Electronics,1,75.00,2024-01-17,North,John Smith,Completed
+1005,C004,Monitor,Electronics,2,450.00,2024-01-18,West,Emily Davis,Completed
+1006,C005,Office Desk,Furniture,1,500.00,2024-01-19,South,David Wilson,Shipped
+1007,C002,USB Cable,Electronics,5,10.99,2024-01-20,South,Sarah Johnson,Completed
+1008,C006,Notebook,Stationery,10,5.99,2024-01-21,North,Lisa Anderson,Completed
+1009,,Pen Set,Stationery,3,12.50,2024-01-22,East,,Pending
+1010,C007,Laptop,Electronics,1,999.99,2024-01-23,West,Robert Taylor,Completed
+1011,C008,Bookshelf,Furniture,1,200.00,2024-01-24,North,Jennifer Martinez,Cancelled
+1012,C003,Mouse Pad,Electronics,2,15.00,2024-01-25,East,Michael Brown,Completed
+1013,C009,Standing Desk,Furniture,1,750.00,2024-01-26,South,William Garcia,Completed
+1014,C004,Webcam,Electronics,,89.99,2024-01-27,West,Emily Davis,Shipped
+1015,C010,Whiteboard,Stationery,1,125.00,2024-01-28,North,James Rodriguez,Completed
+1016,C002,Laptop,Electronics,1,999.99,2024-01-29,South,Sarah Johnson,Completed
+1017,C011,Desk Lamp,Furniture,2,45.00,2024-01-30,East,Mary Hernandez,Completed
+1018,C001,Monitor,Electronics,1,450.00,2024-01-31,North,John Smith,Completed
+1019,C012,Stapler,Stationery,4,8.99,2024-02-01,West,Christopher Lopez,Pending
+1020,C013,Office Chair,Furniture,1,350.00,2024-02-02,South,Patricia Gonzalez,Completed
+1021,C007,Keyboard,Electronics,2,75.00,2024-02-03,West,Robert Taylor,Shipped
+1022,C014,Printer,Electronics,1,299.99,2024-02-04,North,Linda Wilson,Completed
+1023,C003,Desk Chair,Furniture,1,350.00,2024-02-05,East,Michael Brown,Completed
+1024,C002,Mouse,Electronics,2,25.50,2024-02-05,South,Sarah Johnson,Completed
+1025,C015,File Cabinet,Furniture,1,180.00,2024-02-06,West,Daniel Moore,Cancelled
